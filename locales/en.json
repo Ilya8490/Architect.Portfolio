@@ -1,0 +1,162 @@
+{
+  "site": {
+    "name": "Aureline Studio",
+    "role": "Architectural Practice"
+  },
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "services": "Services",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Independent architecture studio",
+    "title": "Designing spaces that inspire",
+    "subtitle": "Quietly luxurious homes, precise commercial spaces, and interiors shaped by proportion, light, and material clarity.",
+    "cta": "View Projects",
+    "secondaryCta": "Start a Conversation"
+  },
+  "about": {
+    "label": "About",
+    "title": "Architecture shaped by light, proportion, and calm.",
+    "bio": "Aureline Studio creates contemporary architecture with a composed, editorial sensibility. Every project begins with the site, the client, and the way a space should feel from the first step inside.",
+    "philosophy": "The studio works across residential, commercial, and interior commissions with an emphasis on spatial rhythm, natural materials, and restrained detailing.",
+    "photoAlt": "Portrait of the architect",
+    "principles": [
+      "Spatial clarity before gesture",
+      "Material honesty and long-term durability",
+      "A calm atmosphere that still feels alive"
+    ]
+  },
+  "portfolio": {
+    "label": "Portfolio",
+    "title": "Selected projects",
+    "intro": "A focused body of work across private residences, workplaces, and interiors. Each project balances performance with atmosphere.",
+    "projects": [
+      {
+        "slug": "lakeside-house",
+        "title": "Lakeside House",
+        "description": "A restrained family retreat where large openings, oak surfaces, and soft stone connect the home to the landscape.",
+        "location": "Lake Geneva, CH",
+        "year": "2025",
+        "tags": ["Residential", "Interior", "Custom Joinery"]
+      },
+      {
+        "slug": "atelier-18",
+        "title": "Atelier 18",
+        "description": "A compact city residence composed as a sequence of still, light-filled rooms with concealed storage and sculpted circulation.",
+        "location": "Kyiv, UA",
+        "year": "2024",
+        "tags": ["Residential", "Interior", "Renovation"]
+      },
+      {
+        "slug": "north-quay-office",
+        "title": "North Quay Office",
+        "description": "A client-facing workspace with warm timber, acoustic clarity, and a material palette tuned for focus and hospitality.",
+        "location": "London, UK",
+        "year": "2024",
+        "tags": ["Commercial", "Workplace", "Brand Experience"]
+      },
+      {
+        "slug": "courtyard-residence",
+        "title": "Courtyard Residence",
+        "description": "A three-level home organized around a sheltered inner garden, with a sequence of framed views and quiet transitions.",
+        "location": "Warsaw, PL",
+        "year": "2023",
+        "tags": ["Residential", "Landscape", "Interior"]
+      }
+    ]
+  },
+  "projectPage": {
+    "back": "Back to projects",
+    "overview": "Overview",
+    "gallery": "Gallery",
+    "facts": "Project facts",
+    "location": "Location",
+    "year": "Year",
+    "tags": "Tags",
+    "detail": "The project balances pragmatic planning with a quiet material language, allowing the architecture to feel composed, tactile, and enduring.",
+    "notFound": "Project not found"
+  },
+  "services": {
+    "label": "Services",
+    "title": "Built around the full journey from concept to completion.",
+    "items": [
+      {
+        "title": "Residential Architecture",
+        "description": "Homes, villas, and retreats shaped around the way people actually live."
+      },
+      {
+        "title": "Commercial Design",
+        "description": "Client suites, office environments, and hospitality spaces with a premium presence."
+      },
+      {
+        "title": "Interior Design",
+        "description": "Material, lighting, and joinery strategies that bring cohesion to each interior."
+      },
+      {
+        "title": "Urban Planning",
+        "description": "Early-stage spatial studies and planning concepts for larger developments."
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "Testimonials",
+    "title": "Clients return for the process as much as the result.",
+    "items": [
+      {
+        "quote": "The studio understood the brief with remarkable precision. The final home feels calm, elegant, and completely ours.",
+        "name": "Elena Morozova",
+        "role": "Private Client"
+      },
+      {
+        "quote": "Every decision was considered. The office now supports focus, hospitality, and the brand in a single quiet language.",
+        "name": "Daniel Reeves",
+        "role": "Founding Partner"
+      },
+      {
+        "quote": "The process was structured, collaborative, and exceptionally clear. The project moved with confidence from start to finish.",
+        "name": "Iryna Volkov",
+        "role": "Developer"
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let’s design something lasting.",
+    "intro": "Share a short note about your project, location, and timing. We reply personally and quickly.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Inquiry",
+    "sending": "Sending...",
+    "success": "Thank you. Your message has been sent successfully.",
+    "error": "Please complete all fields with valid details.",
+    "requiredName": "Name is required.",
+    "requiredEmail": "Email is required.",
+    "invalidEmail": "Please enter a valid email address.",
+    "requiredMessage": "Message is required.",
+    "emailLabel": "Email",
+    "socialLabel": "Social",
+    "note": "Residential commissions, commercial fit-outs, and interior concepts are accepted on a selective basis.",
+    "placeholders": {
+      "name": "Olena Petrova",
+      "email": "hello@studio.com",
+      "message": "Tell us about your project, location, and timeline."
+    }
+  },
+  "ui": {
+    "themeToggle": "Toggle theme",
+    "lightMode": "Switch to light mode",
+    "darkMode": "Switch to dark mode",
+    "notFoundTitle": "Page not found",
+    "notFoundDescription": "The page you are looking for may have moved or no longer exists.",
+    "notFoundAction": "Return home"
+  },
+  "footer": {
+    "line": "Aureline Studio designs modern architecture with clarity, restraint, and lasting value.",
+    "copyright": "All rights reserved."
+  }
+}
