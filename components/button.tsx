@@ -30,7 +30,7 @@ export function Button(props: ButtonAsButton | ButtonAsLink) {
     'inline-flex items-center justify-center rounded-full px-5 py-3 text-sm font-medium tracking-[0.18em] transition duration-300 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper';
   const classes = cn(base, styles(variant), className);
 
-  if ('href' in props) {
+  if ('href' in props && typeof props.href === 'string') {
     return (
       <Link className={classes} {...(rest as AnchorHTMLAttributes<HTMLAnchorElement>)} href={props.href}>
         {children}
