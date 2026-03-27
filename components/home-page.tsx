@@ -164,7 +164,7 @@ export function HomePage({ locale, dictionary }: HomePageProps) {
           {dictionary.testimonials.items.map((item, index) => (
             <Reveal key={item.name} delay={0.04 * index}>
               <Card className="h-full p-6 sm:p-8">
-                <p className="text-3xl leading-none text-accent">"</p>
+                <p className="text-3xl leading-none text-accent">&ldquo;</p>
                 <p className="mt-4 text-base leading-8 text-ink">{item.quote}</p>
                 <div className="mt-8 border-t border-border/60 pt-5">
                   <p className="text-sm font-medium tracking-tight">{item.name}</p>
